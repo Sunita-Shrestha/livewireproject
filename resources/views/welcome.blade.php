@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    @livewire('counter')
+    <livewire:cart-component />
 
     @livewireScripts
 </body>
